@@ -1,12 +1,12 @@
 # Wordle in python
 
-| Key                | Language         |
-| ------------------ | ---------------- |
-| [en](#lang/en.txt) | English          |
-| [es](#lang/es.txt) | Spanish          |
-| [an](#lang/an.txt) | Anime            |
-| [ch](#lang/ch.txt) | Anime characters |
-| [cs](#lang/cs.txt) | Car brands       |
+| Key               | Language         |
+| ----------------- | ---------------- |
+| [en](lang/en.txt) | English          |
+| [es](lang/es.txt) | Spanish          |
+| [an](lang/an.txt) | Anime            |
+| [ch](lang/ch.txt) | Anime characters |
+| [cs](lang/cs.txt) | Car brands       |
 
 ```py
 LANGUAGES = {
@@ -21,4 +21,5 @@ LANGUAGES = {
 99 > rows, columns > 0
 ```
 
-![asd](wordle.png)
+![0](screenshots/fuel.png)
+![1](wordle.png)

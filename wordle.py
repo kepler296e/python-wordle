@@ -111,7 +111,6 @@ while again == "y":
     colors = get_array("black")
     word = np.random.choice(words)
     plt.close()
-    print(word)
     save_arr()
     play()
 print("Bye!")
