@@ -14,7 +14,7 @@ def normalize(s):
 
 def get_words():
     words = []
-    with open(langcode+".txt") as f:
+    with open("lang/"+langcode+".txt") as f:
         for line in f:
             if len(normalize(line)) == letters:
                 words.append(normalize(line))
@@ -82,6 +82,7 @@ def play(line=0):
 LANGUAGES = {
     "en": "English",
     "es": "Spanish",
+    "pk": "Pokemon",
     "an": "Anime",
     "ch": "Characters",
     "cs": "Cars"}
@@ -110,6 +111,7 @@ while again == "y":
     colors = get_array("black")
     word = np.random.choice(words)
     plt.close()
+    print(word)
     save_arr()
     play()
 print("Bye!")
