@@ -22,4 +22,3 @@ LANGUAGES = {
 ```
 
 ![0](screenshots/fuel.png)
-![1](wordle.png)
