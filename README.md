@@ -12,13 +12,14 @@
 LANGUAGES = {
     "en": "English",
     "es": "Spanish",
+    "pk": "Pokemon",
     "an": "Anime",
     "ch": "Characters",
     "cs": "Cars"}
 ```
 
 ```
-99 > rows, columns > 0
+100 > rows, columns > 0
 ```
 
-![0](screenshots/fuel.png)
+![screenshot](screenshot.png)
