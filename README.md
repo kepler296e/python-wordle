@@ -1,6 +1,6 @@
 # Wordle in python
-Simple [wordle.py](wordle.py) script.
-| Key               | Language         |
+Just run [wordle.py](wordle.py) to play.
+| Key               |      Language    |
 | ----------------- | ---------------- |
 | [en](lang/en.txt) | English          |
 | [es](lang/es.txt) | Spanish          |
